@@ -1,16 +1,162 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Ajay J</h1>
 
-<!--
-**AjayJ19/AjayJ19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Full+Stack+Developer;AWS+Cloud+Architect+in+Progress;Building+Scalable+Future+Tech" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AjayJ19&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AjayJ19?label=Followers&style=social" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+🎓 B.Tech in Artificial Intelligence and Data Science  
+📍 Chennai, India  
+⚡ Building intelligent systems with real-world impact  
+
+- 🔭 Working on **AI + Cloud + Web3 Systems**
+- 🧠 Focused on **Privacy AI & Real-Time ML**
+- ☁️ Hands-on with **AWS Serverless Architecture**
+- ⚡ Strong interest in **scalable backend systems**
+
+---
+
+## 🧠 Experience
+
+### 🟡 AWS Intern - Brain O Vision
+- Architected systems using **EC2, S3, IAM, Lambda**
+- Optimized serverless deployments
+- Automated cloud workflows
+
+### 🔵 App Dev Intern - NSIC
+- Built mobile apps with strong UI/UX
+- Improved accessibility & performance
+
+### 🟣 AI/ML Intern - Iniram Square
+- Developing ML models for **Admini Bot ecosystem**
+- Integrating AI into SaaS platforms
+
+---
+
+## ⚒️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
+
+---
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+---
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,tensorflow" />
+</p>
+
+- Scikit-learn | Pandas | Matplotlib
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git" />
+</p>
+
+---
+
+### 🛠️ Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Interview Bot
+Voice-based mock interview assistant  
+- Speech Recognition + TTS + Resume Parsing  
+🔗 https://github.com/AjayJ19/HireWise-AI
+
+---
+
+### 🛡️ ShadowLens
+AI-powered privacy inspector  
+- Chrome Extension + Flask + Gemini API  
+🔗 https://github.com/AjayJ19/ShadowLens
+
+---
+
+### ⚡ Web3 Energy Platform
+Blockchain + IoT integration  
+🔗 https://github.com/Aiot-ctrl/HackIndia-SPARK-1-2025-DREAMFORGE
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayJ19&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayJ19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AjayJ19&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Fun Zone
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎥 Tech Vibe
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjejlnejQ3cmM2MGY0NHp0aHhyejAwYWRkamZ3aTF2Y3FjZWNzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="600" loading="lazy"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/AjayJ19">
+    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20J-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:j.ajay1905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Dev Philosophy
+
+> "Build systems that scale, not just projects that run."
+
+---
