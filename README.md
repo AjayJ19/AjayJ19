@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajay J</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Full+Stack+Developer;AWS+Cloud+Architect+in+Progress;Building+Scalable+Future+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Building+Scalable+Future+Tech" />
 </p>
 
 <p align="center">
@@ -103,9 +103,10 @@ AI-powered privacy inspector
 
 ---
 
-### ⚡ Web3 Energy Platform
-Blockchain + IoT integration  
-🔗 https://github.com/Aiot-ctrl/HackIndia-SPARK-1-2025-DREAMFORGE
+### 🧬 Diabetic Retinopathy Detection System
+👁️ Deep Learning-based medical diagnostic system  
+- Detects and classifies Diabetic Retinopathy from fundus eye images  
+- Uses CNN-based models for image classification   
 
 ---
 
@@ -137,7 +138,7 @@ Blockchain + IoT integration
 ## 🎥 Tech Vibe
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjejlnejQ3cmM2MGY0NHp0aHhyejAwYWRkamZ3aTF2Y3FjZWNzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="600" loading="lazy"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnVoczJneTBsZmw3ZmdzZGRzZDBpYXZudXhxN3R3YWc3bnlnaXd1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/90X2oHBxti3QnzSDd6/giphy.gif" width="450" loading="lazy"/>
 </p>
 
 ---
@@ -145,7 +146,7 @@ Blockchain + IoT integration
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/AjayJ19">
+  <a href="www.linkedin.com/in/ajay-j19">
     <img src="https://img.shields.io/badge/LinkedIn-Ajay%20J-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:j.ajay1905@gmail.com">
@@ -155,7 +156,7 @@ Blockchain + IoT integration
 
 ---
 
-## ⚡ Dev Philosophy
+## ⚡ Devloper Philosophy
 
 > "Build systems that scale, not just projects that run."
 
